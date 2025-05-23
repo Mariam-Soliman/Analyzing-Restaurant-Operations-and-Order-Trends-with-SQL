@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8b4b53ee-0468-43c0-8bf4-b8a7f83be99c)# Analyzing-Restaurant-Operations-and-Order-Trends-with-SQL
+# Analyzing-Restaurant-Operations-and-Order-Trends-with-SQL
 ## Overview
 This project uses SQL to analyze restaurant data with the goal of understanding order trends, optimizing delivery performance, and evaluating operational efficiency.
 ## Objectives
