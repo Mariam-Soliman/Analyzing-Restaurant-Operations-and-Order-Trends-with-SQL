@@ -79,6 +79,3 @@ Utilize the Data Table Import Wizard to Import the csv file.
 - March was the month of highest number of orders around 5x the number of orders in February or April.
 - Wednesdays and Fridays are the busiest days of the week.
 - Hours from 5pm-11pm are the busiest hours of the day.
-
-
-- 
